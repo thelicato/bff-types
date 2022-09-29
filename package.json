@@ -1,0 +1,15 @@
+{
+  "name": "@thelicato/bff-types",
+  "version": "0.1.0",
+  "description": "A generic template to provide types to both BE and FE (Best Friends Forever)",
+  "license": "MIT",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thelicato/bff-types.git"
+  },
+  "homepage": "https://github.com/thelicato/bff-types#readme"
+}
