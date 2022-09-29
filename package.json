@@ -6,6 +6,6 @@
   "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "clean": "rm -rf docs logo.png README.md LICENSE"
+    "clean": "rm -rf docs logo.png README.md .git"
   }
 }
